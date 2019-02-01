@@ -27,11 +27,7 @@
         </dependency>
 
         <!-- TODO : #8 dooray-spring-boot-starter:1.0.1-SNAPSHOT dependency 를 추가해 주세요. -->
-        <dependency>
-            <groupId>com.nhnent.edu.spring_boot.starter</groupId>
-            <artifactId>dooray-spring-boot-starter</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
-        </dependency>
+        <!-- ... -->
 
     </dependencies>
 

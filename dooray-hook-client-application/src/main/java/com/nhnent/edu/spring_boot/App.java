@@ -13,8 +13,7 @@ import org.springframework.context.annotation.Bean;
 public class App {
     // TODO : #10 DoorayHookSender를 의존성 주입받으세요.
     //        cf.) @Autowired
-    @Autowired
-    private DoorayHookSender doorayHookSender;
+    /* ... */
 
 
     public static void main(String[] args) {
@@ -27,11 +26,7 @@ public class App {
         return new ApplicationListener<ApplicationReadyEvent>() {
             @Override
             public void onApplicationEvent(ApplicationReadyEvent event) {
-                DoorayHook doorayHook = new DoorayHook();
-                doorayHook.setBotName("dooray-hook-bot");
-                doorayHook.setText("My Name is dongmyo, Nice to meet ya!");
-
-                doorayHookSender.send(doorayHook);
+                /* ... */
             }
         };
     }

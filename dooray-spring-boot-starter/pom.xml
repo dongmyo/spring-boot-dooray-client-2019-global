@@ -14,11 +14,7 @@
 
     <dependencies>
         <!-- TODO : #7 dooray-spring-boot-autoconfigure:1.0.1-SNAPSHOT을 dependency에 추가하세요. -->
-        <dependency>
-            <groupId>com.nhnent.edu.spring_boot.starter</groupId>
-            <artifactId>dooray-spring-boot-autoconfigure</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
-        </dependency>
+        <!-- ... -->
 
     </dependencies>
 
