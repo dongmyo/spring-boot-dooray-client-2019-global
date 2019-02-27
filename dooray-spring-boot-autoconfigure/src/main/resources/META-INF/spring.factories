@@ -1,3 +1,4 @@
 # TODO : #6
-# @EnableAutoConfiguration 이 선언되었을 때 com.nhnent.edu.springboot.starter.DoorayAutoConfiguration 을 사용하도록 설정하세요.
+# @EnableAutoConfiguration 이 선언되었을 때 com.nhnent.edu.spring_boot.starter.DoorayAutoConfig 을 사용하도록 설정하세요.
+# configure com.nhnent.edu.spring_boot.starter.DoorayAutoConfig as EnableAutoConfiguration setting
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=
