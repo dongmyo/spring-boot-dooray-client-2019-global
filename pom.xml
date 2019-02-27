@@ -7,7 +7,7 @@
     <groupId>com.nhnent.edu.spring_boot.starter</groupId>
     <artifactId>spring-boot-dooray-client</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>1.8</java.version>
